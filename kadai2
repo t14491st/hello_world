@@ -1,0 +1,24 @@
+var tashizan ;
+tashizan = function(a , b){
+   var result1 ;
+   result1 = a + b
+   return result1 ;
+} ;
+
+
+var kakezan ;
+kakezan = function(c , d){
+   var result2 ;
+   result2 = c * d
+   return result2 ;
+} ;
+
+var kadai ;
+kadai = function(){
+   tashizan (2x , 10) ;
+   kakezan (2x, 10) ;
+);
+
+  kadai();
+  kadai();
+  kadai();
